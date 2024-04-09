@@ -1,0 +1,202 @@
+.parte1{
+    width: 1440px;
+    height: 605px;
+    margin: -8px -8px;
+    border-width: 0px 0px 5px 0px;
+    border-style: solid;
+    border-color: #33A8DB;
+    background-color: #000000;
+    background-image: url(../image/banner.png), url(../image/Background\ Gradient.png);
+}
+.cssLogo{
+    width: 248px;
+    height: 216px;
+    margin-top: 50px;
+    margin-left: 630px;
+    border-radius: 70%;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+#linear{
+    margin-top: 23px;
+    margin-left: 515px;
+    margin-bottom: 10px;
+    font-size: 48px;
+    background-image: linear-gradient(to top, #33A8DB, #1472B7);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+#pParte1{
+    width: 400px;
+    font-size: 21px;
+    color: white;
+    padding-top: 0px;
+    margin-top: 0px;
+    margin-left: 550px;
+}
+#quero{
+    width: 300px;
+    height: 50px;
+    margin-left: 600px;
+    border-width: 3px 3px 3px 3px;
+    border-style: solid;
+    border-color: #33A8DB;
+    border-radius: 10px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 25px;
+    line-height: 45px;
+}
+a{
+    color: #33A8DB;
+    text-decoration: none;
+}
+
+.parte2{
+    width: 1440px;
+    height: 605px;
+    margin: 8px -8px;
+    border-width: 0px 0px 6px 0px;
+    border-style: solid;
+    border-color: #33A8DB;
+    background-color: #000000;
+}
+#parte2{
+    margin-top: -5px;
+    margin-left: 515px;
+    padding-top: 100px;
+    font-size: 48px;
+    background-image: linear-gradient(to top, #33A8DB, #1472B7);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+#texto2{
+    width: 790px;
+    font-size: 25px;
+    margin-left: 400px;
+    color: white;
+}
+.mod1{
+    width: 600px;
+    height: 60px;
+    padding-top:0px;
+    margin-left: 470px;
+    border-width: 3px 3px 3px 3px;
+    border-style: solid;
+    border-color: #33A8DB;
+    background-color: #252525;
+    border-radius: 40px;
+    font-size: 22px;
+    text-align: center;
+    box-shadow: inset 5px 5px 10px black;
+}
+.mod2{
+    width: 600px;
+    height: 60px;
+    margin-top: 20px;
+    margin-left: 470px;
+    border-width: 3px 3px 3px 3px;
+    border-style: solid;
+    border-color: #33A8DB;
+    background-color: #252525;
+    border-radius: 40px;
+    font-size: 22px;
+    text-align: center;
+    line-height: 15px;
+    box-shadow: inset 5px 5px 10px black;
+}
+.mod3{
+    width: 600px;
+    height: 60px;
+    margin-left: 470px;
+    margin-top: 20px;
+    border-width: 3px 3px 3px 3px;
+    border-style: solid;
+    border-color: #33A8DB;
+    background-color: #252525;
+    border-radius: 40px;
+    font-size: 22px;
+    text-align: center;    
+    box-shadow: inset 5px 5px 10px black;
+}
+.pMod1{
+    color: white;
+    line-height: 15px;
+}
+.pMod2{
+    color: white;
+    line-height: 15px;
+}
+.pMod3{
+    color: white;
+    line-height: 15px;
+}
+.parte3{
+    width: 1440px;
+    height: 400px;
+    margin: -9px -8px;
+    border-width: 0px 0px 8px 0px;
+    border-style: solid;
+    border-color: #33A8DB;
+    background-color: black;
+    background-image: url(../image/woman-code.png);
+    background-size: 1200px;
+    background-position: center;
+    background-attachment: fixed;
+}
+div > h1{
+    font-size: 60px;
+    margin: 15px;
+    color: white;
+}
+.texto{
+    margin-left: 50px;
+    padding-top: 80px;
+    text-shadow: 5px 3px 0px #33A8DB;
+}
+.parte4{
+    width: 1440px;
+    height: 850px;
+    border-width: 0px 0px 8px 0px;
+    border-style: solid;
+    border-color: #33A8DB;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-image: url(../image/professional-challenges.png);
+    background-position: center, 300px;
+    margin: -17px -8px;
+}
+#texto4{
+    width: 800px;
+    margin-left: 350px;
+    padding-top: 80px;
+    line-height: 60px;
+    text-align: center;
+    background-image: linear-gradient(to top, #33A8DB, #1472B7);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+.textfinal{
+    width: 800px;
+    font-size: 23px;
+    padding-top: 470px;
+    margin-left: 380px;
+    color: white;
+}
+.final{
+    width: 1440px;
+    height: 170px;
+    margin: 15px -8px;
+    background-color: #000000;
+    background-image: linear-gradient(to top, rgba(9, 5, 65, 0.4), rgba(0, 0, 0, 1) 40%);
+}
+
+.logor{
+    width: 310px;
+    margin-top: 50px;
+    margin-left: 550px;
+}
+.tfinal{
+    color: white;
+    padding-left: 550px;
+    font-size: 20px;
+}
